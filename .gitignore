@@ -6,3 +6,6 @@ scripts/.DS_Store
 /scripts/Pods
 /scripts/Podfile.lock
 /frameworks.built
+*.a
+/lib
+/dest
